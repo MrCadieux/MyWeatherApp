@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="humidity" type="id" />
+    <item name="pressure" type="id" />
+    <item name="wind" type="id" />
+    <item name="sunset" type="id" />
+    <item name="sunrise" type="id" />
+    <item name="temp" type="id" />
+    <item name="status" type="id" />
+    <item name="address" type="id" />
+</resources>
